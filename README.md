@@ -5,7 +5,7 @@
 
 > **仓库说明**：本文档仅汇总公开信息与使用指引，不构成任何建议。请在合法合规前提下使用服务，所有信息以官网为准。  
 > 
-> **最后更新**：2026 年 6 月 28 日（套餐及活动详情请实时查阅官网）
+> **最后更新**：2026 年 7 月 19 日（套餐及活动详情请实时查阅官网）
 
 
 > [!WARNING]
@@ -18,7 +18,7 @@
 ## 西部数据 WestData 官网地址
 
 👉 **西部数据 WestData 官方注册入口**：  
-  [https://finalto.xyz/3bYpCa](https://finalto.xyz/3bYpCa)
+  [https://wd-gold.net/](https://finalto.xyz/3bYpCa)
 
 建议使用桌面浏览器打开链接，进行账号注册与套餐选购。
 
@@ -78,7 +78,7 @@
 
 ## 优惠活动说明
 
-85折优惠码：7PUOKRY5P8，MRR5H9CYAO，RCLC917NJZ，CVK8660FSM，JQ90P6O2ZY， WD-BLUE，WD-GOLD，WD-RED，WD-TURBO
+优惠码：**WD–DDR6**，该优惠将于 **2026年8月31日** 到期。
 
 ---
 
@@ -135,7 +135,7 @@ A：优先查阅官网公告/帮助中心，或通过官方工单系统反馈。
 ## 官网注册入口与使用提示
 
 - 👉 **西部数据 WestData 官网注册入口**：  
-  [https://finalto.xyz/3bYpCa](https://finalto.xyz/3bYpCa)
+  [https://wd-gold.net/](https://finalto.xyz/3bYpCa)
 
 > 提示：跨境网络环境复杂，请妥善保管订阅地址，定期更新节点以获取最佳体验。
 
@@ -150,5 +150,5 @@ A：优先查阅官网公告/帮助中心，或通过官方工单系统反馈。
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-06-28`  
-- **Version:** `v1.4`
+- **Last Updated:** `2026-07-19`  
+- **Version:** `v1.5`
